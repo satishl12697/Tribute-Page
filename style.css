@@ -101,7 +101,7 @@ section {
 }
 
 .button5 {
-  width: 40%;
+  width: 30%;
   margin: 25px 0px;
   background-color: white;
   color: black;
@@ -155,7 +155,7 @@ footer {
     padding: 25px 25px;
   }
   .button5 {
-    width: 100%;
+    width: 75%;
   }
   .col-60 {
     width: 100%;
